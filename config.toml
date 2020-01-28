@@ -89,16 +89,24 @@ timeout=3000
 #     code_link = "https://thecoderepo.com"
 #     blog_link = "https://myblogaboutit.com"
 
-# [[params.publications]]
-#   year="2019"
+[[params.publications]]
+  year="2020"
 
-#   [[params.publications.paper]]
-# 		name = "Feugiat sed lectus vestibulum mattis ullamcorper velit sed"
-# 		authors = "Caroll Comes, __Hadi Sinaee__"
-# 		dest  = "Udo Madhu Journal"
-# 		link = "https://mypaperishere.com"
-# 		code_link = "https://thecoderepo.com"
-# 		blog_link = ""
+  [[params.publications.paper]]
+		name = "Якісний біомеханічний аналіз рухів людини під час ходьби і бігу"
+		authors = "Serhii Drachuk"
+		link = "/presentations/presentation1/"
+
+
+  [[params.publications.paper]]
+		name = "Біомеханічні характеристики тіла людини і її рухів. Частина 1"
+		authors = "Serhii Drachuk"
+		link = "/presentations/presentation2/"
+
+  [[params.publications.paper]]
+		name = "Біомеханічні характеристики тіла людини і її рухів. Частина 2"
+		authors = "Serhii Drachuk"
+		link = "/presentations/presentation3/"
 
 #   [[params.publications.paper]]
 # 		name = "Venenatis urna cursus eget nunc. Nam aliquam sem et tortor consequat id porta nibh venenatis"
