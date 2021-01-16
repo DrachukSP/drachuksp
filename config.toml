@@ -108,6 +108,21 @@ timeout=3000
 		authors = "Serhii Drachuk"
 		link = "/presentations/presentation3/"
 
+  [[params.publications.paper]]
+		name = "Біомеханічні аспекти рухових якостей"
+		authors = "Serhii Drachuk"
+		link = "/presentations/presentation4/"
+
+  [[params.publications.paper]]
+		name = "Якісний біомеханічний аналіз рухів людини під час ходьби і бігу"
+		authors = "Serhii Drachuk"
+		link = "/presentations/presentation5/"
+
+  [[params.publications.paper]]
+		name = "Механічна робота та збереження енергії при локомоціях"
+		authors = "Serhii Drachuk"
+		link = "/presentations/presentation6/"
+
 #   [[params.publications.paper]]
 # 		name = "Venenatis urna cursus eget nunc. Nam aliquam sem et tortor consequat id porta nibh venenatis"
 # 		authors = "Les Larkins, Ana Alvardo, __Hadi Sinaee__ "
