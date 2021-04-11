@@ -123,6 +123,14 @@ timeout=3000
 		authors = "Serhii Drachuk"
 		link = "/presentations/presentation6/"
 
+[[params.publications]]
+  year="2021"
+  
+  [[params.publications.paper]]
+		name = "Професійний спорт у сучасному суспільстві"
+		authors = "Serhii Drachuk"
+		link = "/lectures/professional_sport_in_modern_society/"
+
 #   [[params.publications.paper]]
 # 		name = "Venenatis urna cursus eget nunc. Nam aliquam sem et tortor consequat id porta nibh venenatis"
 # 		authors = "Les Larkins, Ana Alvardo, __Hadi Sinaee__ "
