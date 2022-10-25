@@ -97,7 +97,6 @@ timeout=3000
 		authors = "Serhii Drachuk"
 		link = "/presentations/presentation1/"
 
-
   [[params.publications.paper]]
 		name = "Біомеханічні характеристики тіла людини і її рухів. Частина 1"
 		authors = "Serhii Drachuk"
@@ -114,7 +113,7 @@ timeout=3000
 		link = "/presentations/presentation4/"
 
   [[params.publications.paper]]
-		name = "Якісний біомеханічний аналіз рухів людини під час ходьби і бігу"
+		name = "Будова і функції рухового апарату людини"
 		authors = "Serhii Drachuk"
 		link = "/presentations/presentation5/"
 
@@ -130,6 +129,14 @@ timeout=3000
 		name = "Професійний спорт у сучасному суспільстві"
 		authors = "Serhii Drachuk"
 		link = "/lectures/professional_sport_in_modern_society/"
+
+[[params.publications]]
+  year="2022"
+  
+  [[params.publications.paper]]
+		name = "Біомеханіка рухових дій"
+		authors = "Serhii Drachuk"
+		link = "/presentations/presentation7/"
 
 #   [[params.publications.paper]]
 # 		name = "Venenatis urna cursus eget nunc. Nam aliquam sem et tortor consequat id porta nibh venenatis"
